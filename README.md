@@ -1,4 +1,4 @@
-# GERADOR DE SENHAS
+# OBJETIVO
 Projeto realizado com o intuíto do entendimento de como funciona os principais<br>
 conceitos de HTML, CSS E JavaScript.
 
